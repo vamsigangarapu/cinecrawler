@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.9" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.hellomvc.myapp.MovieController" project="HelloMVCWorld" 
+    file="/HelloMVCWorld/src/main/java/com/hellomvc/myapp/HomeController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="250" width="908" x="733" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="2" language="java" name="com.hellomvc.dao.SearchDAO" project="HelloMVCWorld" 
+    file="/HelloMVCWorld/src/main/java/com/hellomvc/dao/SearchDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1376" y="933"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="3" language="java" name="com.hellomvc.myapp.LoginDetails" project="HelloMVCWorld" 
+    file="/HelloMVCWorld/src/main/java/com/hellomvc/myapp/LoginDetails.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="822" y="641"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="4" language="java" name="com.hellomvc.dao.LoginDAO" project="HelloMVCWorld" 
+    file="/HelloMVCWorld/src/main/java/com/hellomvc/dao/LoginDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2465" y="433"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="5" language="java" name="com.hellomvc.myapp.MovieSearchResultObject" project="HelloMVCWorld" 
+    file="/HelloMVCWorld/src/main/java/com/hellomvc/myapp/MovieSearchResultObject.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="330" y="915"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="6" language="java" name="com.hellomvc.service.LoginService" project="HelloMVCWorld" 
+    file="/HelloMVCWorld/src/main/java/com/hellomvc/service/LoginService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1919" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="7" language="java" name="com.hellomvc.service.RegisterServiceImpl" project="HelloMVCWorld" 
+    file="/HelloMVCWorld/src/main/java/com/hellomvc/service/RegisterServiceImpl.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="124" width="230" x="2863" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.hellomvc.dao.RegisterDAOImpl" project="HelloMVCWorld" 
+    file="/HelloMVCWorld/src/main/java/com/hellomvc/dao/RegisterDAOImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="214" x="2609" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.hellomvc.service.LoginServiceImpl" project="HelloMVCWorld" 
+    file="/HelloMVCWorld/src/main/java/com/hellomvc/service/LoginServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="261" x="2007" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="10" language="java" name="com.hellomvc.myapp.core.MisConstants" project="HelloMVCWorld" 
+    file="/HelloMVCWorld/src/main/java/com/hellomvc/myapp/core/MisConstants.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1089" y="690"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="11" language="java" name="com.hellomvc.service.SearchService" project="HelloMVCWorld" 
+    file="/HelloMVCWorld/src/main/java/com/hellomvc/service/SearchService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1286" y="449"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="12" language="java" name="com.hellomvc.dao.SearchDAOImpl" project="HelloMVCWorld" 
+    file="/HelloMVCWorld/src/main/java/com/hellomvc/dao/SearchDAOImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1778" y="733"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.hellomvc.service.SearchServiceImpl" project="HelloMVCWorld" 
+    file="/HelloMVCWorld/src/main/java/com/hellomvc/service/SearchServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1821" y="120"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="14" language="java" name="com.hellomvc.service.RegisterService" project="HelloMVCWorld" 
+    file="/HelloMVCWorld/src/main/java/com/hellomvc/service/RegisterService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2160" y="403"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="15" language="java" name="com.hellomvc.dao.LoginDAOImpl" project="HelloMVCWorld" 
+    file="/HelloMVCWorld/src/main/java/com/hellomvc/dao/LoginDAOImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="261" x="2308" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="com.hellomvc.myapp.SearchDetails" project="HelloMVCWorld" 
+    file="/HelloMVCWorld/src/main/java/com/hellomvc/myapp/SearchDetails.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="605" y="475"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="com.hellomvc.myapp.RegisterDetails" project="HelloMVCWorld" 
+    file="/HelloMVCWorld/src/main/java/com/hellomvc/myapp/RegisterDetails.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="646" width="215" x="2609" y="617"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.hellomvc.myapp.MovieSearchResult" project="HelloMVCWorld" 
+    file="/HelloMVCWorld/src/main/java/com/hellomvc/myapp/MovieSearchResult.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="231" y="291"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="19" language="java" name="com.hellomvc.dao.RegisterDAO" project="HelloMVCWorld" 
+    file="/HelloMVCWorld/src/main/java/com/hellomvc/dao/RegisterDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="209" x="2649" y="327"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <realization id="20">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <dependency id="21">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <association id="22">    
+    <end type="SOURCE" refId="1" navigable="false" variant="ASSOCIATION">      
+      <attribute id="23" name="loginService">        
+        <position height="0" width="0" x="12" y="182"/>      
+      </attribute>      
+      <multiplicity id="24" minimum="0" maximum="1">        
+        <position height="0" width="0" x="12" y="182"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="25">    
+    <end type="SOURCE" refId="1" navigable="false" variant="ASSOCIATION">      
+      <attribute id="26" name="regService">        
+        <position height="0" width="0" x="-22" y="32"/>      
+      </attribute>      
+      <multiplicity id="27" minimum="0" maximum="1">        
+        <position height="0" width="0" x="-22" y="32"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="28">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="29">    
+    <bendpoint x="2888" y="327"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="30">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <association id="31">    
+    <end type="SOURCE" refId="7" navigable="false" variant="ASSOCIATION">      
+      <attribute id="32" name="registerDAO">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="33" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="34">    
+    <end type="SOURCE" refId="13" navigable="false" variant="ASSOCIATION">      
+      <attribute id="35" name="searchDAO">        
+        <position height="0" width="0" x="-150" y="272"/>      
+      </attribute>      
+      <multiplicity id="36" minimum="0" maximum="1">        
+        <position height="0" width="0" x="-150" y="272"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="37">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="6"/>  
+  </realization>  
+  <dependency id="38">    
+    <bendpoint x="2618" y="327"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <association id="39">    
+    <end type="SOURCE" refId="1" navigable="false" variant="ASSOCIATION">      
+      <attribute id="40" name="searchService">        
+        <position height="0" width="0" x="2" y="78"/>      
+      </attribute>      
+      <multiplicity id="41" minimum="0" maximum="1">        
+        <position height="0" width="0" x="2" y="78"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="42">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <realization id="43">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <dependency id="44">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <association id="45">    
+    <end type="SOURCE" refId="18" navigable="false" variant="ASSOCIATION">      
+      <attribute id="46" name="MovieSearchResultObjects">        
+        <position height="0" width="0" x="-452" y="2"/>      
+      </attribute>      
+      <multiplicity id="47" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="-452" y="2"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="48">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="49">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <realization id="50">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <dependency id="51">    
+    <bendpoint x="1746" y="327"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="52">    
+    <bendpoint x="491" y="327"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <realization id="53">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <association id="54">    
+    <end type="SOURCE" refId="9" navigable="false" variant="ASSOCIATION">      
+      <attribute id="55" name="loginDAO">        
+        <position height="0" width="0" x="8" y="62"/>      
+      </attribute>      
+      <multiplicity id="56" minimum="0" maximum="1">        
+        <position height="0" width="0" x="8" y="62"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="57">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
